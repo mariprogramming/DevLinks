@@ -1,11 +1,5 @@
 <h1 align= "center"> DevLinks </h1>
 
-<br>
-
-<p align="center">
-  <img alt="meus devlinks" scr=".github/preview.jpg">
-</p>
-
 ## 📝 Descrição
 
 <p>
