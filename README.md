@@ -5,7 +5,7 @@
 <p>
 Projeto criado com o auxílio do curso "discover" da Rocketseat. Por meio desse projeto, eu montei o HTML e o CSS do 0 pela primeira vez. Nesse site, agrupei todos os links importantes relacionados a mim, como se fosse um cartão de visitas.
 
-Para acessar o site, clique [aqui](https://dev-links-dun-ten.vercel.app)
+Para acessar o site, clique [aqui](https://dev-links-dun-ten.vercel.app).
 
 <h3 align="center"> 
 	🌠 Status do projeto: Em andamento 🌠
