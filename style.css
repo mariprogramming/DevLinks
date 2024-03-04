@@ -12,8 +12,6 @@
   --surface-color-hover: rgba(255, 255, 255, 0.02);
   --highlight-color: rgba(255, 255, 255, 0.1);
   --switch-bg-url: url(./assets/moon-stars.svg);
-
-  transition: background 0.3s;
 }
 
 .light {
@@ -29,6 +27,8 @@
 body {
   background: var(--bg-url) no-repeat top center/cover;
   height: 100vh;
+  -webkit-transition: background-image 0.3s ease-in-out;
+  transition: background-image 0.3s ease-in-out;
 }
 
 body * {
@@ -83,7 +83,7 @@ body * {
 }
 
 .light #switch button {
-  animation: slide-in 0.5s forwards;
+  animation: slide-in 0.4s forwards;
 }
 
 #switch button:hover {
